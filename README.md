@@ -1,2 +1,4 @@
-# awesome-c-language
-Notes only for learn 
+#AWESOME C LANGUAGE
+
+######Stack Family :
+- simple json using stack
